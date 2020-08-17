@@ -73,8 +73,6 @@ Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíve
 
 * ** Kaique Oliveira ** - [kaique-programmer] (https://github.com/kaique-programmer)
 
-Veja também a lista de [colaboradores] (https://github.com/your/project/contributors) que participaram deste projeto.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
